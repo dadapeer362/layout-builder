@@ -1,0 +1,28 @@
+/* Write your CSS here */
+.bg-header {
+  background-color: #475569;
+  height: 35vh;
+  padding-top: 20px;
+  padding-left: 50px;
+}
+
+.heading-header {
+  color: #ffffff;
+}
+
+.form-container {
+  color: #ffffff;
+}
+
+.input {
+  width: 16px;
+  height: 16px;
+  margin-bottom: 15px;
+  margin-right: 10px;
+  cursor: pointer;
+}
+
+.label {
+  font-size: 17px;
+  cursor: pointer;
+}

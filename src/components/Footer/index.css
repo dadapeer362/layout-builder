@@ -1,0 +1,12 @@
+/* Write your CSS here */
+/* Write your CSS here */
+.footer-container {
+  background-color: #cbd5e1;
+  padding: 20px;
+}
+
+.footer {
+  color: #475569;
+  text-align: center;
+  font-size: 40px;
+}
